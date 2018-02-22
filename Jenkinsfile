@@ -1,4 +1,4 @@
-  env.DOCKERHUB_USERNAME = 'cumaha'
+  env.DOCKERHUB_USERNAME = 'mahamad'
 
   node("docker-test") {
     checkout scm
